@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,38bdf8,7dd3fc&height=140&section=header&text=Muhamad%20Fadil&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Creative%20Developer%20%7C%20UI%20Designer%20%7C%20AI%20Supervisor&descAlignY=85&descSize=16" width="100%"/>
 
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Creative+Developer+%F0%9F%9A%80;UI+Designer+%26+AI+Supervisor+%F0%9F%A7%A0;Building+Things+That+Matter+%E2%9C%A8;Available+for+Freelance+%26+Collaboration+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br/>
@@ -23,7 +21,7 @@ const fadil = {
   name      : "Muhamad Fadil",
   role      : ["Creative Developer", "UI Designer", "AI Supervisor"],
   location  : "Bekasi, Indonesia 🇮🇩",
-  available : true,   // open for freelance & collaboration
+  available : true,
   focus     : "Building digital experiences that are fast, beautiful & purposeful",
   learning  : ["React", "Next.js", "Node.js"],
   contact   : "muhammadfadhil1019@gmail.com",
@@ -49,7 +47,6 @@ const fadil = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **Design & Tools**
 
@@ -72,7 +69,7 @@ const fadil = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=FaR7COde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050507&title_color=38bdf8&icon_color=38bdf8&text_color=e8e8f0&ring_color=38bdf8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=FaR7COde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050507&title_color=38bdf8&icon_color=38bdf8&text_color=e8e8f0"/>
 &nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaR7COde&layout=compact&hide_border=true&bg_color=050507&title_color=38bdf8&text_color=e8e8f0&langs_count=6"/>
 
@@ -86,28 +83,24 @@ const fadil = {
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FaR7COde&bg_color=050507&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=38bdf8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Portfolio** | Portfolio interaktif dengan animasi & globe 3D | HTML · CSS · JS · Canvas | [🔗 Live](https://far7code.github.io/) |
+| **Portfolio v2** | Portfolio interaktif dengan animasi & globe 3D | HTML · CSS · JS · Canvas | [🔗 Live](https://far7code.github.io/) |
 | **Jadwal Sholat** | Aplikasi waktu sholat real-time berbasis lokasi | HTML · CSS · JS · API | [🔗 Live](https://far7code.github.io/Jadwal-Solat/) |
 | **Katalog Mobil** | Katalog otomotif mewah interaktif & informatif | HTML · CSS · JS | [🔗 Live](https://far7code.github.io/katalog-mobil/) |
 | **Masjid Al-Qalam** | Sistem informasi digital masjid modern | HTML · CSS · JS | [🔗 Live](https://far7code.github.io/Masjid-Al-Qalam1/) |
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
 
 ---
 
@@ -115,7 +108,7 @@ const fadil = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-050507?style=for-the-badge&logoColor=38bdf8)](https://far7code.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-050507?style=for-the-badge)](https://far7code.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-fadil-444ba8394/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soft.pdil/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfadhil1019@gmail.com)
