@@ -90,7 +90,7 @@ const fadil = {
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Portfolio v2** | Portfolio interaktif dengan animasi & globe 3D | HTML · CSS · JS · Canvas | [🔗 Live](https://far7code.github.io/) |
+| **Portfolio** | Portfolio interaktif dengan animasi & globe 3D | HTML · CSS · JS · Canvas | [🔗 Live](https://far7code.github.io/) |
 | **Jadwal Sholat** | Aplikasi waktu sholat real-time berbasis lokasi | HTML · CSS · JS · API | [🔗 Live](https://far7code.github.io/Jadwal-Solat/) |
 | **Katalog Mobil** | Katalog otomotif mewah interaktif & informatif | HTML · CSS · JS | [🔗 Live](https://far7code.github.io/katalog-mobil/) |
 | **Masjid Al-Qalam** | Sistem informasi digital masjid modern | HTML · CSS · JS | [🔗 Live](https://far7code.github.io/Masjid-Al-Qalam1/) |
@@ -102,7 +102,7 @@ const fadil = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/FaR7COde/FaR7COde/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
@@ -129,6 +129,6 @@ const fadil = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8,0ea5e9,7dd3fc&height=100&section=footer" width="100%"/>
 
-*⭐ Jangan mati dulu, mie ayam masih enak!*
+*⭐ Feel free to star repos you find useful!*
 
 </div>
