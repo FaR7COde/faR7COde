@@ -97,7 +97,7 @@ const fadil = {
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Portfolio** | Portfolio interaktif dengan animasi & globe 3D | HTML · CSS · JS · Canvas | [🔗 Live]([https://far7code.github.io/](https://far7code.github.io/My-Portfolio/)) |
+| **Portfolio** | Portfolio interaktif dengan animasi & globe 3D | HTML · CSS · JS · Canvas | [🔗 Live](https://far7code.github.io/My-Portfolio/) |
 | **Jadwal Sholat** | Aplikasi waktu sholat real-time berbasis lokasi | HTML · CSS · JS · API | [🔗 Live](https://far7code.github.io/Jadwal-Solat/) |
 | **Katalog Mobil** | Katalog otomotif mewah interaktif & informatif | HTML · CSS · JS | [🔗 Live](https://far7code.github.io/katalog-mobil/) |
 | **Masjid Al-Qalam** | Sistem informasi digital masjid modern | HTML · CSS · JS | [🔗 Live](https://far7code.github.io/Masjid-Al-Qalam1/) |
