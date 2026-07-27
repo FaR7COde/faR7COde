@@ -90,7 +90,7 @@ Claude API   Gemini   Cursor   Prompt Engineering
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/muhamad-fadil-444ba8394/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8)](https://www.instagram.com/soft.pdil/)
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8)](https://www.instagram.com/lidaf.era/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:muhammadfadhil1019@gmail.com)
 &nbsp;
